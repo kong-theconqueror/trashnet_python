@@ -1,3 +1,4 @@
 dataset_resized
 output*
 .venv
+*.h5
